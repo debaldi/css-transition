@@ -42,6 +42,7 @@ section{
     background-color: #f1c40f;
 }
 
+/* CSS index.html*/
 .transitionCheckbox, .transitionRadio{
     width: 30px;
     height: 30px;
@@ -50,4 +51,18 @@ section{
     width: 90%;
     height: 30px;
     font-size: 18px;
+}
+
+/* CSS animation.html */
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.position-box{    
+    width: 400px;
+    height: 400px;
+    background-color: #444;
+    position: relative;
 }
