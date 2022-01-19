@@ -6,21 +6,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="style.css">
-    
-    <title>Transiçoes com CSS</title>
+    <link rel="stylesheet" href="animation.css">
+
+    <title>Animações com CSS</title>
 
 </head>
 <body>
-    <h1>Transiçoes</h1>
+    <h1>Animações</h1>
 
-    <h2>Hover</h2>
+    <h2>Fade</h2>
     <section>
-        <div class="item blue">Azul</div>
-        <div class="item yellow">Amarelo</div>
-        <div class="item green">Azul</div>
-        <div class="item red">Vermelho</div>
+        <div class="item blue animationFadeIn">Azul</div>       
+        <div class="item yellow animationFadeOut">Amarelo</div>       
+        <div class="item red animationFadeInFadeOut">Vermelho</div>       
     </section>
 
+    <hr>
+
+    <h2>Spinner</h2>
+    <section>
+        <div class="item blue spinner animationSpinner">Linear</div>
+        <div class="item green spinner animationSpinnerEase">Ease</div>
+        <div class="item red spinner animationSpinnerEaseOut">Ease Out</div>
+        <div class="item yellow spinner animationSpinnerEaseIn">Ease In</div>
+        <div class="item blue spinner animationSpinnerReverse">Reverse</div>
+    </section>
+
+    <hr>
+
+    <h2>Position</h2>
+    <div class="content">
+        <section class="position-box">
+            <div class="item green animationPosition">Verde</div>
+        </section>
+    </div>
+
+    <hr>
 
 </body>
 </html>
