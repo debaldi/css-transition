@@ -23,6 +23,10 @@ section{
     display: flex;
     flex-direction: row;
 }
+.item{
+    width: 100px;
+    height: 100px;
+}
 
 /* Color */
 .red{
