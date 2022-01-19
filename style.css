@@ -1,0 +1,49 @@
+html, body{
+    font-family: sans-serif;
+    background-color: #333;
+    color: #eee;
+}
+h2{
+    color: #458688;
+    font-size: 23px;
+}
+hr{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    opacity: 0.2;
+}
+div{
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+/* Color */
+.red{
+    background-color: #e74c3c;
+}
+.blue{
+    background-color: #3498db;
+}
+.green{
+    background-color: #1abc9c;
+}
+.yellow{
+    background-color: #f1c40f;
+}
+
+.transitionCheckbox, .transitionRadio{
+    width: 30px;
+    height: 30px;
+}
+.transitionText{
+    width: 90%;
+    height: 30px;
+    font-size: 18px;
+}
