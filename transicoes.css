@@ -1,8 +1,4 @@
 /* TRANSIÇOES */
-.item{
-    width: 100px;
-    height: 100px;
-}
 
 .transitionBackgroud{
     transition: background-color 1.5s;
@@ -25,8 +21,9 @@
     transform: rotateZ(180deg);
 }
 
+/* Delay */
 .transitionDelay{
-    /* Primeiro o tempo de transição e depois o tempo de espera */
+    /* Primeiro o tempo de transição e depois o tempo de espera(Delay) */
     transition: width 1s 1s, height 1s;
 }
 .transitionDelay:hover{
