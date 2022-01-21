@@ -1,4 +1,4 @@
-## Efeitos de Transições e Animações somente com CSS
+## Efeito de Transições e Animações somente com CSS
 O arquivo transicoes.html tem como css o arquivo transicoes.css
 
 O arquivo animation.html tem como css o arquivo animation.css
@@ -7,8 +7,7 @@ O arquivo relogio.html tem como css o arquivo relogio.css
 
 Nesses aquivos contém algumas transições e algumas animações feitas com css puro.
 
-# Transições
-
+## Transições
 No Arquivo transicoes.html e .css contém transições de:
 
 Hover
@@ -19,8 +18,7 @@ Checked
 
 Focus
 
-# animações
-
+## Animações
 No Arquivo animation.html e .css contém animações de:
 
 Fade
