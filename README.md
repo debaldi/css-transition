@@ -1,5 +1,4 @@
 # Transições
-# animações
 
 O arquivo transicoes.html tem como css o arquivo transicoes.css
 
@@ -18,6 +17,8 @@ Delay
 Checked
 
 Focus
+
+# animações
 
 No Arquivo animation.html e .css contém animações de:
 
