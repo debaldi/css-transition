@@ -107,3 +107,16 @@
     animation-play-state: running;
 }
 */
+
+/* Content */
+.animationContent::after{
+    content: '';
+    animation: promocao 2s linear infinite;
+}
+
+@keyframes promocao {    
+    0%  {content:' '}
+    50% {content:'Promoção'}
+    60% {content:' '}
+    90% {content:'Frete Grátis'}
+}
