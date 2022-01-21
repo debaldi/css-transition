@@ -3,7 +3,7 @@ O arquivo transicoes.html tem como css o arquivo transicoes.css
 
 O arquivo animation.html tem como css o arquivo animation.css
 
-O arquivo relogio.html tem como css o arquivo relogio.css
+O arquivo index.html tem como css o arquivo relogio.css
 
 Nesses aquivos contém algumas transições e algumas animações feitas com css puro.
 
@@ -31,4 +31,4 @@ Content
 
 
 ## Relógio com CSS
-No Arquivo relogio.html e .css contém uma animação de um relógio feito somente com imagem de uma borda de relógio, uma imagem de um ponteiro de minutos e uma imagem de um ponteiro de hóras que está na pasta img.
+No Arquivo index.html e relogio.css contém uma animação de um relógio feito somente com imagem de uma borda de relógio, uma imagem de um ponteiro de minutos e uma imagem de um ponteiro de hóras que está na pasta img.
